@@ -1,4 +1,32 @@
 {
-  "name": "John",
-  "age": 30
+  "users":  [
+    {
+      "name": "John",
+      "age": 30,
+      "address": {
+        "street": "123 First St.",
+        "city": "Houston",
+        "state": "TX"
+      },
+      "shoppingList": [
+        "milk", 
+        "eggs", 
+        "bread"
+      ]
+    },
+    {
+      "name": "Mary",
+      "age": 25,
+      "address": {
+        "street": "2nd Street",
+        "city": "Dallas",
+        "state": "TX"
+      },
+      "shoppingList": [
+        "Chips",
+        "Milk",
+        "Apples"
+      ]
+    }
+  ] 
 }
