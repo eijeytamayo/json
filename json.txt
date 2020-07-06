@@ -5,3 +5,32 @@ JavaScript Object Notation
 -often used to exchange data between client/server
 -self-describing and easy to understand
 -integrates with JS and most other languages
+
+JSON Data Types
+-Strings "Hello World"
+-Number 12 3.4 -25
+-Boolean true false
+-Array [1, 2, 3] ["Hello", "World"]
+-Object {"key": "value"} {"age": 30}
+-Null Empty
+
+JSON Rules
+-Key / Value Pairs
+-Double Quotes
+-Must fall into data Types
+-Data is separated by commas
+-curly braces hold objects
+-square brackets hold arrays
+
+Example:
+{
+  "name": "John",
+  "age": 20,
+  "likesCats": true,
+  "groceryList": ["milk", "eggs"]
+  "address": {
+    "street": "123 First St.",
+    "city": "Houston",
+    "state": "TX"
+  }
+}
