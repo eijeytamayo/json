@@ -1,0 +1,7 @@
+What is JSON?
+JavaScript Object Notation
+-data representation format
+-lightweight format for storing and transporting data
+-often used to exchange data between client/server
+-self-describing and easy to understand
+-integrates with JS and most other languages
